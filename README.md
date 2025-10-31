@@ -45,11 +45,11 @@ If you find this project helpful, consider buying me a coffee!
 ### Required Components
 
 1. **Raspberry Pi** (any model with GPIO)
-   - Tested on: Raspberry Pi 2W 3B+, 4B
+   - Tested on: Raspberry Pi 2W, 3B+, 4B
    - Raspberry Pi OS (Bookworm or later recommended)
 
 2. **Relay Module** (4-channel recommended)
-   - Recommended: SRD-05VDC-SL-C 4-channel relay module
+   - Recommended: SRD-05VDC-SL-C 4-channel relay module by Inland(Comes with a shield)
    - Supports up to 10A @ 250VAC or 10A @ 30VDC
    - Available from various electronics suppliers
 
