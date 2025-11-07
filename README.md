@@ -54,7 +54,7 @@ If you find this project helpful, consider buying me a coffee!
    - Available from various electronics suppliers
 
 3. **Power Supply**
-   - 5V 2.5A minimum for Raspberry Pi
+   - 5V 1.0A minimum for Raspberry Pi 2W
    - Additional power for relay loads if needed
 
 4. **Jumper Wires**
