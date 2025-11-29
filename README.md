@@ -29,7 +29,7 @@ If you find this project helpful, consider buying me a coffee!
 
 ## 📋 Table of Contents
 
-- [Hardware Requirements]#hardware-requirements
+- [Hardware Requirements](https://github.com/bcdproductionllc/slot-car-relay-controller?tab=readme-ov-file#-hardware-requirements)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
